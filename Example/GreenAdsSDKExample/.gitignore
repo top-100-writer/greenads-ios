@@ -1,0 +1,49 @@
+# Xcode
+*.xccheckout
+*.xcworkspace
+!*.xcworkspace
+xcuserdata/
+*.xcscheme
+*.xcuserstate
+*.xcsettings
+*.xcscmblueprint
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+.DS_Store
+**/.DS_Store
+*.xcschememanagement.plist
+
+# Build
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Dependency managers
+Carthage/Build/
+Pods/
+Podfile.lock
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Playgrounds
+*.playground/
+
+# Profiling
+*.gcda
+*.gcno
+
+# Misc
+*.mlmodel
+*.apns
+*.moved-aside
+*.backup
