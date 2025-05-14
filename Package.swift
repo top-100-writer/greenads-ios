@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GreenAdsSDK", 
-            url: "https://github.com/top-100-writer/greenads-ios/releases/download/1.0.2/GreenAdsSDK.xcframework.zip", 
-            checksum: "100ee75f7a6300d720570a6722b130c1508b3fc213bd6ec15f5cae8fe6c74bda"
+            url: "https://github.com/top-100-writer/greenads-ios/releases/download/1.0.3/GreenAdsSDK.xcframework.zip", 
+            checksum: "d82318bd26acd873f04a0ce5ef24e4c001761cd7bf5e2f07436e5bd9ca893afd"
         )
     ]
 )

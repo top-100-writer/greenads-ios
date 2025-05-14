@@ -1,8 +1,6 @@
 # GreenAdsSDK iOS
 GreenAdsSDK обеспечивает возможность показа рекламных баннеров в iOS приложениях.
 
-SDK архив: 
-
 ## Подключение
 ### Swift Package Manager
 1. В Xcode откройте свой проект и перейдите на вкладку Package Dependencies.
@@ -11,7 +9,7 @@ SDK архив:
 4. После добавления, пакет должен появиться в Package Dependencies, а также в Project Navigator.
 
 ### Manually
-1. [Скачайте](https://github.com/top-100-writer/greenads-ios/releases/download/1.0.2/GreenAdsSDK.xcframework.zip) актуальную версию SDK.
+1. [Скачайте](https://github.com/top-100-writer/greenads-ios/releases/download/1.0.3/GreenAdsSDK.xcframework.zip) актуальную версию SDK.
 2. Распакуйте скачанный Zip-архив, внутри должен быть GreenAdsSDK.xcframework.
 3. Откройте в Xcode свой проект и в Project Navigator выберите ваш проект.
 4. Выберите Target, в котором хотите использовать SDK.

@@ -154,7 +154,7 @@ private extension ButtonsPickerView {
         button.translatesAutoresizingMaskIntoConstraints = false
         button.setTitle(title, for: .normal)
         button.titleLabel?.font = .boldSystemFont(ofSize: 16)
-        button.backgroundColor = .systemBlue
+        button.backgroundColor = .systemGreen
         button.setTitleColor(.label, for: .normal)
         button.clipsToBounds = true
         button.layer.cornerRadius = Constants.buttonCornerRadius

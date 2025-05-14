@@ -180,7 +180,7 @@ private extension SegmentsPickerView {
             showButton.translatesAutoresizingMaskIntoConstraints = false
             showButton.setTitle("Show", for: .normal)
             showButton.titleLabel?.font = .boldSystemFont(ofSize: 16)
-            showButton.backgroundColor = .systemBlue
+            showButton.backgroundColor = .systemGreen
             showButton.setTitleColor(.label, for: .normal)
             showButton.clipsToBounds = true
             showButton.layer.cornerRadius = Constants.buttonCornerRadius

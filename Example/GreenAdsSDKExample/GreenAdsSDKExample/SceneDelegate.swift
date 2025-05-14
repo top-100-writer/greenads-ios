@@ -21,6 +21,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         window?.rootViewController = UINavigationController(
             rootViewController: PickerViewController(inputModel: .main)
         )
+        window?.tintColor = .systemGreen
         window?.makeKeyAndVisible()
     }
 
